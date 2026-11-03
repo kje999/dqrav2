@@ -1,0 +1,9 @@
+# Distribution Repository - Ignore local compiled binaries and temporary artifacts
+*.apk
+*.aab
+*.zip
+*.tar.gz
+*.log
+temp/
+.DS_Store
+Thumbs.db
