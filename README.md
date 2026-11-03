@@ -17,6 +17,7 @@ This repository serves strictly as the verified public distribution endpoint for
 ## 🛡️ System Compatibility & Requirements
 
 * **Operating System:** Android 8.0 (Oreo) through Android 15
+* **Package Size:** 163.5 MB (universal APK)
 * **Architecture:** Universal Android (ARM64-v8a, armeabi-v7a, x86_64)
 * **Required Permissions:**
   * Location (Fine / Coarse) — for incident reporting and station proximity mapping
@@ -58,3 +59,4 @@ Developed for integrated response coordination between:
 * **Bureau of Fire Protection (BFP)**
 * **Municipal Disaster Risk Reduction and Management Office (MDRRMO)**
 * Local Government and Barangay Response Units
+
