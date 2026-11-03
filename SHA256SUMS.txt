@@ -1,1 +1,1 @@
-c89dfe596cf737e2413b35df3b89c4ffa34d512fd202bd435fe6cde9fedae4ff  dqra-app.apk
+5ffad836776f0e9ea00aae0671f36cc8c1ec80165bb8e5df51be5d53d7fe9703  dqra-app.apk
