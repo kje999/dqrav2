@@ -17,7 +17,7 @@ This repository serves strictly as the verified public distribution endpoint for
 ## 🛡️ System Compatibility & Requirements
 
 * **Operating System:** Android 8.0 (Oreo) through Android 15
-* **Package Size:** 62.9 MB (universal production release APK)
+* **Package Size:** 63.0 MB (universal production release APK)
 * **Architecture:** Universal Android (ARM64-v8a, armeabi-v7a, x86_64)
 * **Required Permissions:**
   * Location (Fine / Coarse) — for incident reporting and station proximity mapping
